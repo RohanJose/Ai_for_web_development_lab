@@ -1,6 +1,6 @@
-#Exp2 ( Added style.css to existing webpage)
+# Exp2 ( Added style.css to existing webpage)
 
-#Event Registration & Promotional Portal
+# Event Registration & Promotional Portal
 
 This repository contains the front-end code for the Tech-Innovate 2025 event website. It features event highlights with various media types and a comprehensive registration form. Features:
 
